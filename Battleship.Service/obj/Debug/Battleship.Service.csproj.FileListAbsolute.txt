@@ -1,0 +1,17 @@
+C:\Project\BattleShip\BattleShip\Battleship.Service\bin\Debug\BattleShip.Service.dll
+C:\Project\BattleShip\BattleShip\Battleship.Service\bin\Debug\BattleShip.Service.pdb
+C:\Project\BattleShip\BattleShip\Battleship.Service\bin\Debug\BattleShip.Domain.dll
+C:\Project\BattleShip\BattleShip\Battleship.Service\bin\Debug\BattleShip.Domain.pdb
+C:\Project\BattleShip\BattleShip\Battleship.Service\obj\Debug\Battleship.Service.csprojResolveAssemblyReference.cache
+C:\Project\BattleShip\BattleShip\Battleship.Service\obj\Debug\BattleShip.Service.dll
+C:\Project\BattleShip\BattleShip\Battleship.Service\obj\Debug\BattleShip.Service.pdb
+D:\MS-RD\Battleship\BattleShip\BattleShip\Battleship.Service\bin\Debug\BattleShip.Service.dll
+D:\MS-RD\Battleship\BattleShip\BattleShip\Battleship.Service\bin\Debug\BattleShip.Service.pdb
+D:\MS-RD\Battleship\BattleShip\BattleShip\Battleship.Service\bin\Debug\BattleShip.Domain.dll
+D:\MS-RD\Battleship\BattleShip\BattleShip\Battleship.Service\bin\Debug\BattleShip.Domain.pdb
+D:\MS-RD\Battleship\BattleShip\BattleShip\Battleship.Service\bin\Debug\BattleShip.Domain.dll.config
+D:\MS-RD\Battleship\BattleShip\BattleShip\Battleship.Service\obj\Debug\BattleShip.Service.csprojAssemblyReference.cache
+D:\MS-RD\Battleship\BattleShip\BattleShip\Battleship.Service\obj\Debug\BattleShip.Service.csproj.CoreCompileInputs.cache
+D:\MS-RD\Battleship\BattleShip\BattleShip\Battleship.Service\obj\Debug\BattleShip.Service.csproj.CopyComplete
+D:\MS-RD\Battleship\BattleShip\BattleShip\Battleship.Service\obj\Debug\BattleShip.Service.dll
+D:\MS-RD\Battleship\BattleShip\BattleShip\Battleship.Service\obj\Debug\BattleShip.Service.pdb

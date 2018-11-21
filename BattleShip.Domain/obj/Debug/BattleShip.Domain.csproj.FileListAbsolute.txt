@@ -1,0 +1,13 @@
+C:\Project\BattleShip\BattleShip\BattleShip.Domain\bin\Debug\BattleShip.Domain.dll.config
+C:\Project\BattleShip\BattleShip\BattleShip.Domain\bin\Debug\BattleShip.Domain.dll
+C:\Project\BattleShip\BattleShip\BattleShip.Domain\bin\Debug\BattleShip.Domain.pdb
+C:\Project\BattleShip\BattleShip\BattleShip.Domain\obj\Debug\BattleShip.Domain.dll
+C:\Project\BattleShip\BattleShip\BattleShip.Domain\obj\Debug\BattleShip.Domain.pdb
+C:\Project\BattleShip\BattleShip\BattleShip.Domain\obj\Debug\BattleShip.Domain.csprojResolveAssemblyReference.cache
+D:\MS-RD\Battleship\BattleShip\BattleShip\BattleShip.Domain\bin\Debug\BattleShip.Domain.dll.config
+D:\MS-RD\Battleship\BattleShip\BattleShip\BattleShip.Domain\bin\Debug\BattleShip.Domain.dll
+D:\MS-RD\Battleship\BattleShip\BattleShip\BattleShip.Domain\bin\Debug\BattleShip.Domain.pdb
+D:\MS-RD\Battleship\BattleShip\BattleShip\BattleShip.Domain\obj\Debug\BattleShip.Domain.csprojAssemblyReference.cache
+D:\MS-RD\Battleship\BattleShip\BattleShip\BattleShip.Domain\obj\Debug\BattleShip.Domain.csproj.CoreCompileInputs.cache
+D:\MS-RD\Battleship\BattleShip\BattleShip\BattleShip.Domain\obj\Debug\BattleShip.Domain.dll
+D:\MS-RD\Battleship\BattleShip\BattleShip\BattleShip.Domain\obj\Debug\BattleShip.Domain.pdb
