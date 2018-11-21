@@ -88,7 +88,7 @@ namespace BattleShip.Service
             ship.StartingCoordinate = point;
             ship.Length = length;
             ship.IsVertical = true;
-            List<int> pointY = Enumerable.Range(point.PointY, length).ToList();
+            List<int> pointY = Enumerable.Range(point.PointY, length + 1).ToList();
             pointY.ForEach(y =>
             {
                 ship.OccupiedCoordinte.Add(new BoardCoordinate() { PointX = point.PointX, PointY = y });
@@ -130,7 +130,7 @@ namespace BattleShip.Service
             ship.StartingCoordinate = point;
             ship.Length = length;
             ship.IsVertical = false;
-            List<int> pointX = Enumerable.Range(point.PointX, length).ToList();
+            List<int> pointX = Enumerable.Range(point.PointX, length + 1).ToList();
             pointX.ForEach(x =>
             {
                 ship.OccupiedCoordinte.Add(new BoardCoordinate() { PointX = x, PointY = point.PointY });
