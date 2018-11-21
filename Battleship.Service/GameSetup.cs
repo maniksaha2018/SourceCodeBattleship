@@ -65,7 +65,7 @@ namespace BattleShip.Service
             {
                 while (bNotValid)
                 {
-                    Console.WriteLine("Please input for length (1-" + maxLength.ToString() + ") ?");
+                    Console.WriteLine("Please input for length (1-" + maxLength.ToString() + ")..");
                     while (!int.TryParse(Console.ReadLine(), out length))
                     {
                         Console.WriteLine("Please Enter a valid number between 1 and "  + maxLength.ToString() );
@@ -217,7 +217,7 @@ namespace BattleShip.Service
                 PlayerInfo player = new PlayerInfo();
                 while (bcontinue)
                 {
-                    Console.WriteLine("Enter a Name");
+                    Console.WriteLine("Enter Player Name...");
                     player.Name = Console.ReadLine();
                     bcontinue = string.IsNullOrEmpty(player.Name.Trim());
                 }

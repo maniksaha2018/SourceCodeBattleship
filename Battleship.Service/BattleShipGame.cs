@@ -80,7 +80,7 @@ namespace BattleShip.Service
                     status = "Sink";
                     sinkCount++;
                 }
-                else if (f.OccupiedCoordinte.Count > 0)
+                else if (f.HittedCoordinte.Count > 0)
                 {
                     status = "Fighting But Got Hit";
                 }
@@ -93,11 +93,11 @@ namespace BattleShip.Service
             });
             if (sinkCount == player.Fleet.Count)
             {
-                Console.WriteLine("Player : " + player.Player.Name + " still in fight");
+                Console.WriteLine("Player : " + player.Player.Name + " lost the fight");
             }
             else
             {
-                Console.WriteLine("Player : " + player.Player.Name + " lost the fight");
+                Console.WriteLine("Player : " + player.Player.Name + " still in fight");
             }
         }
 
@@ -109,10 +109,12 @@ namespace BattleShip.Service
 
         public void DoSetup()
         {
+            Console.WriteLine("Input For Player 1...");
             Player1 = new GamePlayer();
             Player1.Player = PlayerSetUp.CreatePlayer();
             Player1.GameBoard = PlayerSetUp.CreateBoard();
             PrepareFleet(Player1);
+            Console.WriteLine("Input For Player 2...");
             Player2 = new GamePlayer();
             Player2.Player = PlayerSetUp.CreatePlayer();
             Player2.GameBoard = PlayerSetUp.CreateBoard();
